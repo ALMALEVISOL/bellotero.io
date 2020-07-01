@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ALMALEVISOL/bellotero.io.git/static/css/main.ba21cd00.chunk.css",
+    "main.js": "/ALMALEVISOL/bellotero.io.git/static/js/main.a6fdac61.chunk.js",
+    "main.js.map": "/ALMALEVISOL/bellotero.io.git/static/js/main.a6fdac61.chunk.js.map",
+    "runtime-main.js": "/ALMALEVISOL/bellotero.io.git/static/js/runtime-main.ebcd8f18.js",
+    "runtime-main.js.map": "/ALMALEVISOL/bellotero.io.git/static/js/runtime-main.ebcd8f18.js.map",
+    "static/css/2.8c6566a3.chunk.css": "/ALMALEVISOL/bellotero.io.git/static/css/2.8c6566a3.chunk.css",
+    "static/js/2.19d10285.chunk.js": "/ALMALEVISOL/bellotero.io.git/static/js/2.19d10285.chunk.js",
+    "static/js/2.19d10285.chunk.js.map": "/ALMALEVISOL/bellotero.io.git/static/js/2.19d10285.chunk.js.map",
+    "index.html": "/ALMALEVISOL/bellotero.io.git/index.html",
+    "precache-manifest.f03141d55bd64dc4d45bffea29118d13.js": "/ALMALEVISOL/bellotero.io.git/precache-manifest.f03141d55bd64dc4d45bffea29118d13.js",
+    "service-worker.js": "/ALMALEVISOL/bellotero.io.git/service-worker.js",
+    "static/css/2.8c6566a3.chunk.css.map": "/ALMALEVISOL/bellotero.io.git/static/css/2.8c6566a3.chunk.css.map",
+    "static/css/main.ba21cd00.chunk.css.map": "/ALMALEVISOL/bellotero.io.git/static/css/main.ba21cd00.chunk.css.map",
+    "static/js/2.19d10285.chunk.js.LICENSE.txt": "/ALMALEVISOL/bellotero.io.git/static/js/2.19d10285.chunk.js.LICENSE.txt",
+    "static/media/Configurator.css": "/ALMALEVISOL/bellotero.io.git/static/media/Roboto-Medium.9745415b.ttf",
+    "static/media/bellotero.svg": "/ALMALEVISOL/bellotero.io.git/static/media/bellotero.2e7b3396.svg",
+    "static/media/logo.svg": "/ALMALEVISOL/bellotero.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebcd8f18.js",
+    "static/css/2.8c6566a3.chunk.css",
+    "static/js/2.19d10285.chunk.js",
+    "static/css/main.ba21cd00.chunk.css",
+    "static/js/main.a6fdac61.chunk.js"
+  ]
+}
