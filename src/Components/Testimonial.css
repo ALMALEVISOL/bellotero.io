@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'MyFont';
+  src: local('Roboto-Black'), url(../Fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: 'robotoLight';
+    src: local('Roboto-Light'), url(../Fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: 'robotoBold';
+    src: local('Roboto-Bold'), url(../Fonts/Roboto-Bold.ttf);
+}
+
+.testimonial-title {
+    width: 389px;
+    height: 56px !important;
+    background-color: #071eb3;
+    margin-left: 360px;
+    margin-top: 110px;
+}
+
+.Our-customers-love-u {
+    width: 381px;
+    height: 40px;
+    font-family: "MyFont";
+    font-size: 36px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.77px;
+    color: #ffffff;
+  }
+
+
+  .testimonial-reviews {
+    width: 1002px;
+    height: 254px;
+    background-color: #ffffff;
+    margin-left: 360px;
+    margin-top: 100px;
+  }
+
+  .right-button {
+    width: 56px;
+    height: 56px;
+    background-color: #071eb3;
+  }
+  
+  .left-button {
+    width: 56px;
+    height: 56px;
+    background-color: #071eb3;
+  }
+
+  .testimonial-name {
+    width: 158px;
+    height: 48px;
+    font-family: MyFont;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: var(--black);
+    left: 390px;
+    position: absolute;
+    margin-top: 20px;
+  }
+
+  .testimonial-position{
+    width: 95px;
+    height: 16px;
+    font-family: robotoLight;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a5a5a5;
+    left: 390px !important;
+    top: 390px;
+    position: absolute;
+  }
+
+  .testimonial-comment {
+    width: 565px;
+    height: 190px;
+    font-family: robotoBold;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #161616;
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+  }
+
+  .number-of-reviews{
+    width: 120px;
+    height: 56px;
+    background-color: #071eb3;
+    color: #ffffff !important;
+    float: right !important;
+    margin-right: 30% !important;
+  }
+
+  .buttons {
+    width: 56px;
+    height: 56px;
+    background-color: #071eb3;
+    float: right;
+    margin-right: -10%;
+    border: none !important;
+  }
+
+  .button-right {
+    width: 56px !important;
+    height: 56px !important;
+    background-color: #071eb3 !important;
+    float: right !important;
+    margin-right: -13% !important;
+    border: none !important;
+    color: white !important;
+    font-size: 30px !important;
+  }
+
+  .button-left {
+    width: 56px !important;
+    height: 56px !important;
+    background-color: #071eb3 !important;
+    float: right !important;
+    margin-right: -10% !important;
+    border: none !important;
+    color: white !important;
+    font-size: 30px !important;
+  }
+
+  .anticon-arrow-right{
+    vertical-align: text-top !important;
+    margin-top: 6px;
+  }
+
+  .anticon-arrow-left{
+    vertical-align: text-top;
+    margin-top: 6px;
+  }
+
+  .counter{
+    width: 35px;
+    height: 32px;
+    font-family: CormorantGaramond;
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: italic;
+    letter-spacing: 0.69px;
+    color: #ffffff;
+    margin-top: 25px;
+    text-align: -webkit-center;
+    margin-left: 40px;
+  }

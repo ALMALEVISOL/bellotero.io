@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.bellotero {
+  width: 133px;
+  height: 26px;
+  object-fit: contain;
+}
+
+.navbar {
+  height: 64px;
+  background-color: #ffffff;
+}
+
+.nav-item {
+  margin-right: 20px;
+  height: 16px;
+  font-family: navFont;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #071eb3 !important;
+  padding: 10px;
+}
+
+#root {
+    height: 800px;
+    background-color: #f9faff !important;
+}
+
+.navbar-expand{
+  justify-content: space-around !important;
+}
+
+@font-face {
+  font-family: 'navFont';
+  src: local('Roboto-Medium'), url(./Fonts/Roboto-Medium.ttf);
+}
+
+.nav-item-active{
+  border-top: 2px solid;
+}

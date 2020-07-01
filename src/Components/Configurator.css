@@ -1,0 +1,191 @@
+@font-face {
+  font-family: 'MyFont';
+  src: local('Roboto-Black'), url(../Fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: 'robotoLight';
+    src: local('Roboto-Light'), url(../Fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: 'robotoBold';
+    src: local('Roboto-Bold'), url(../Fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'robotoMedium';
+    src: local('Roboto-Medium'), url(../Fonts/Roboto-Medium.ttf);
+}
+
+.calculator-title {
+    width: 269px;
+    height: 105px;
+    background-color: #071eb3;
+    margin-left: 360px;
+    margin-top: 110px;
+}
+
+.With-Belloteroio-yo {
+  width: 349px;
+  height: 120px;
+  font-family: robotoMedium;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: var(--black);
+  margin-left: 19% !important;
+  top: 310px;
+    position: absolute;
+}
+
+.monthly-ingredient{
+  float: right;
+  margin-top: -3%;
+  margin-left: 953px;
+}
+
+.employees{
+  float: right;
+  margin-top: 3%;
+  margin-left: 50%;
+}
+
+.results{
+  float: right;
+    margin-left: 49%;
+    margin-top: 4%;
+    width: 1500px;
+}
+
+.Monthly-ingredient-s {
+  width: 126px;
+  height: 32px;
+  font-family: robotoMedium;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--black);
+}
+
+.Full-time-employees {
+  width: 157px;
+  height: 32px;
+  font-family: robotoMedium;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--black);
+}
+
+.ingredient-number {
+  width: 190px;
+  height: 52px;
+  border-radius: 4px;
+  border: solid 1px #d6dcff;
+  background-color: #ffffff;
+  font-size: 30px !important;
+}
+
+.ant-slider-track{
+  background-color: #071eb3 !important;
+}
+
+.ant-slider-handle{
+  border: solid 2px #071eb3 !important;
+}
+
+.input-number-ingredient{
+  height: 50px;
+  font-family: robotoBold;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.11;
+  letter-spacing: 0.77px;
+  text-align: right;
+  color: var(--black);
+  width: 61% !important;
+  margin-left: 34% !important;
+}
+
+.input-number-employees{
+  height: 50px;
+  font-family: robotoBold;
+  font-size: 36px !important;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.11;
+  letter-spacing: 0.77px;
+  text-align: right;
+  color: var(--black);
+  width: 40% !important;
+  margin-left: 50% !important;
+}
+
+.results-text{
+    height: 72px;
+    font-family: robotoMedium;
+    font-size: 72px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #071eb3;
+}
+
+.results-text-estimated-label{
+    margin-left: 90px;
+    width: 200px;
+    width: 194px;
+    height: 16px;
+    font-family: robotoMedium;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black);
+    flex: 0 !important;
+    float: left;
+}
+
+.results-text-cost-food-label{
+    width: 343px;
+    height: 16px;
+    font-family: robotoMedium;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black);
+    margin-left: 15%;
+    float: left;
+}
+
+.employees-slider{
+  margin-top: 20px;
+}
+
+.ant-input-number-input{
+  text-align: right !important;
+}
+
+.estimated-annual{
+}
